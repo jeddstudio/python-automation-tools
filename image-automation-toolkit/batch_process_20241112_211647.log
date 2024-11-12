@@ -1,0 +1,4 @@
+2024-11-12 21:16:47,733 - INFO - Processing test.zip
+2024-11-12 21:16:47,734 - INFO - Successfully processed test.zip
+2024-11-12 21:16:47,740 - INFO - Converted and removed: test_images/test.png
+2024-11-12 21:16:47,747 - INFO - Created PDF: test_images/output.pdf
