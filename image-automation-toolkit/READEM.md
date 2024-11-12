@@ -4,6 +4,8 @@
 
 A professional-grade Python toolkit for automated batch processing of images, featuring ZIP extraction, format conversion, and PDF generation. This toolkit streamlines the workflow of handling large batches of images, making it perfect for digital archiving, document processing, and automated workflow systems.
 
+![Image Automation Toolkit](images/image-automation-toolkit-project-thumbnail.png)
+
 ## 🌟 Features
 
 - **Batch ZIP Processing**: Automatically extract and process multiple ZIP files
